@@ -1,0 +1,5 @@
+c:\users\mn\documents\visual studio 2015\Projects\TTTWordHelper\TTTWordHelper\obj\Debug\TTTWordHelper.csprojResolveAssemblyReference.cache
+c:\users\mn\documents\visual studio 2015\Projects\TTTWordHelper\TTTWordHelper\bin\Debug\TTTWordHelper.dll
+c:\users\mn\documents\visual studio 2015\Projects\TTTWordHelper\TTTWordHelper\bin\Debug\TTTWordHelper.pdb
+c:\users\mn\documents\visual studio 2015\Projects\TTTWordHelper\TTTWordHelper\obj\Debug\TTTWordHelper.dll
+c:\users\mn\documents\visual studio 2015\Projects\TTTWordHelper\TTTWordHelper\obj\Debug\TTTWordHelper.pdb
